@@ -224,7 +224,7 @@ img {
 }
 
 header {
-  background: url('https://images.unsplash.com/photo-1498671546682-94a232c26d17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=749&q=80');
+  background: rgb(65, 63, 63);
   background-size: cover;
   color: white;
 }
